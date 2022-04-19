@@ -1,0 +1,6 @@
+1.空白目录 将目录初始化成git仓库 git init
+2.远程关联远程仓库 git remote add origin <git-url>
+3.如果本地默认分支名为master，先将本地分支名改成远程关联的仓库默认分支名相同git branch -m oldName newName 强制更新 git branch -M newName
+4.如果本地和远程都是空目录 git push -u origin name
+
+
