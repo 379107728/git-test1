@@ -1,0 +1,5 @@
+1.ls -a 查看当前目录下所有文件及目录（包含隐藏文件及目录）
+2.vim <file_name> 创建/编辑文本文件
+3.cat <file_name> 查看文本文件内容
+4.rm -rf <file_name> 强制删除目录/文件
+5.ssh 公私钥目录 cd ~/.ssh ls cat rd_sab.pub
